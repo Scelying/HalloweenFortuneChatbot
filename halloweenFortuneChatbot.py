@@ -12,7 +12,7 @@ with col1:
     st.image("logo-ief.png")
 
 with col2:
-    st.title("🔮 Bienvenido al Oráculo de Halloween 🔮")
+    st.title("🔮 Bienvenido al Oráculo del IEF 🔮")
 
 st.write("Pregúntale al Oráculo tu destino... pero recuerda, ¡es solo por diversión!")
 
